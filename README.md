@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Goswami</h1>
-<h3 align="center">eager to learn and collaborate on innovative projects.</h3>
+<h3 align="center">Building Seamless User Experiences</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
